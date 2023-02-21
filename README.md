@@ -1,6 +1,6 @@
 # Neural-Network-approximation-of-Coupled-Dynamical-Systems
 
-In a dynamical system we have have two inter-connected tanks of water. first tank has 100 liters of pure water whereas the other one has 100 liters of water mixed with 150 kg salt. the liquid circulates through tanks at a constant rate of 2 liters/minute and the mixture is kept uniform by stirring. u(t) and v(t) are the amounts of salt in first and second tanks respectively.
+In a dynamical system we have have two inter-connected tanks of water. first tank has 100 liters of pure water whereas the other one has 100 liters of water mixed with 150 kg salt. The liquid circulates through tanks at a constant rate of 2 liters/minute and the mixture is kept uniform by stirring. u(t) and v(t) are the amounts of salt in first and second tanks respectively.
 
 # Mathematical Modeling
 
